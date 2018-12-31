@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>344510323864-17q7e646goqf30b5s5i9g23fpqg8c7uh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.344510323864-17q7e646goqf30b5s5i9g23fpqg8c7uh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB33gCNki6uE6vpToLru4utq0TFYSo8GWE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>344510323864</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cgt.ifasdemo</string>
+	<key>PROJECT_ID</key>
+	<string>ifas-c0ba6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ifas-c0ba6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:344510323864:ios:73dd18d6f4c447e1</string>
+	<key>DATABASE_URL</key>
+	<string>https://ifas-c0ba6.firebaseio.com</string>
+</dict>
+</plist>
